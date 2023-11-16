@@ -1,5 +1,7 @@
 # Lada Volgina's CV
 
+![My Photo](photo.jpg "It's me")
+
 ## Full Name
 
 Lada Volgina
